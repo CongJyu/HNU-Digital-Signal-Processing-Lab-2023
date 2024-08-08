@@ -14,7 +14,7 @@ The PDF files in this repository is written by their authors (Professors, TAs, H
 
 本倉庫入面嘅實驗說明書（PDF 文件）之版權歸該文件嘅作者（湖南大學、老師、助教等參與該文檔編寫嘅人）所有，未經許可，唔准用作商業用途。該文件僅供參考。
 
-All Python code contained in this repository was written by Rain Chen as part of my experimental assignment for the Digital Signal Processing 2023 course and is not available for commercial use. This part of the code can only be used for reference and communication between students, **It is strictly forbidden to use this code directly as your own experimental lab assignment code to submit**.
+All Python code contained in this repository was written by Rain Chen as part of my experimental assignment for the Digital Signal Processing 2023 course and is not available for commercial use. This part of the code can only be used for reference and communication between students, **it is strictly forbidden to use this code directly as your own experimental lab assignment code to submit**.
 
 本倉庫入面包含嘅所有 Python 代碼由 Rain Chen 編寫，係本人參加《數字信號處理 2023》課程之實驗作業嘅一部分，唔可以用作商業用途。對於此部分代碼嘅使用方式，僅可以用於同學之間嘅參考及交流，**嚴禁直接使用此代碼作為自己嘅實驗作業代碼提交**。
 
